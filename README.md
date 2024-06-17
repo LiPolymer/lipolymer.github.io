@@ -1,2 +1,2 @@
-# lipolymer.github.io
+# pages.lipoly.ink
 Github Pages
